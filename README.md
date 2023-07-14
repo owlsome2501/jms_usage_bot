@@ -1,3 +1,3 @@
 # JMS Usage Bot
 
-A simple Just My Socks data usage notifier
+一个简单的Just My Socks流量信息通知Telegram机器人
